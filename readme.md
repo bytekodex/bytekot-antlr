@@ -11,12 +11,12 @@
 - Ссылочные типы (с полным именем)
 - Дескрипторы
 - Сигнатуры
-- Примитивные литералы (`BLJZ`) (кроме `S` -- затруднительно)
+- Примитивные литералы (`BLJZ`) (кроме `S` - затруднительно)
 - Специальные типы (`boolean`, `void`)
 - Ключевые слова
 - Типы вызовов (`REF_invokeVirtual`, `REF_invokeSpecial`)
 - Access флаги
-- Constant pool теги (Utf8, Integer, Methodref)
+- Constant pool теги (`Utf8`, `Integer`, `Methodref`)
 - Декларация пакета
 
 Любые улучшения буду рад принять, https://github.com/bytekodex/bytekot-antlr/pulls
