@@ -11,7 +11,7 @@ Supported:
 - Reference types (with full name)
 - Descriptors
 - Signatures
-- Primitive literals (`BLJZ`) (except `S` - challenging)
+- Primitive literals (`BCLJZ`) (except `S` - challenging)
 - Special types (`boolean`, `void`)
 - Keywords (`public`, `private`, `protected`)
 - Call types (`REF_invokeVirtual`, `REF_invokeSpecial`)
