@@ -331,6 +331,7 @@ IgnorableRBracket: ']';
 IgnorableLArrow: '<';
 IgnorableRArrow: '>';
 IgnorableDQuote: '"';
+IgnorableQuestion: '?';
 
 fragment DescriptorType:	'['* (PrimitiveType | 'L' ClassName ';');
 fragment PrimitiveType: [BCDFIJSZ];
